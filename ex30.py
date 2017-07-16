@@ -1,6 +1,6 @@
 people = 30
-cars = 40
-buses = 15
+cars = 55
+buses = 55
 
 
 if cars > people:
