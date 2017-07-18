@@ -1,0 +1,1 @@
+print out the values of variable
